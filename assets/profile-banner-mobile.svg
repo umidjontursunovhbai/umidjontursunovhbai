@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450" role="img" aria-label="Umidjon Tursunov, AI software engineer">
+<rect width="640" height="450" rx="20" fill="#f4f1e9"/>
+<path d="M38 49h20m-10-10v20" stroke="#eb5a2b" stroke-width="4"/>
+<text x="77" y="57" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#20231e">UMIDJON TURSUNOV</text>
+<path d="M38 85h564" stroke="#d7d3c8"/>
+<text x="34" y="176" font-family="Arial,Helvetica,sans-serif" font-size="79" font-weight="800" letter-spacing="-3" fill="#20231e">AI ideas.</text>
+<text x="34" y="257" font-family="Arial,Helvetica,sans-serif" font-size="79" font-weight="800" letter-spacing="-3" fill="#20231e">Real products<tspan fill="#eb5a2b">.</tspan></text>
+<text x="38" y="314" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#5b6055">AI software engineer</text>
+<text x="38" y="352" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#5b6055">Python backend / Mobile / Integrations</text>
+<path d="M38 384h564" stroke="#d7d3c8"/>
+<text x="38" y="421" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="1" fill="#5b6055">TASHKENT, UZBEKISTAN</text>
+<path d="M568 402l12 12-12 12m-20-12h30" fill="none" stroke="#eb5a2b" stroke-width="3"/>
+</svg>

@@ -1,33 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Umidjon Tursunov</title>
-  <desc id="desc">Mobile apps. AI tools. Useful software. Developer based in Tashkent, Uzbekistan.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101c2b"/>
-      <stop offset="1" stop-color="#090e16"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#a9b6c9" stroke-opacity=".05"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
-  <path d="M64 57H112" stroke="#c3f467" stroke-width="4" stroke-linecap="round"/>
-  <text x="128" y="63" fill="#c3f467" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="3">BUILD / LEARN / REPEAT</text>
-  <text x="60" y="158" fill="#f3f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Umidjon</text>
-  <text x="60" y="226" fill="#f3f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">Tursunov<tspan fill="#c3f467">.</tspan></text>
-  <text x="64" y="273" fill="#aebdd1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="21">Mobile apps. AI tools. Useful software.</text>
-  <circle cx="69" cy="327" r="4" fill="#c3f467"/>
-  <text x="83" y="332" fill="#8194ae" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="1">TASHKENT, UZBEKISTAN</text>
-  <g transform="translate(810 62)">
-    <circle cx="137" cy="128" r="119" fill="none" stroke="#2a394a"/>
-    <circle cx="137" cy="128" r="89" fill="none" stroke="#2a394a" stroke-dasharray="3 9"/>
-    <path d="M137 0V256M9 128H265" stroke="#263548"/>
-    <rect x="59" y="50" width="156" height="156" rx="30" fill="#142132" stroke="#3e5267" transform="rotate(-12 137 128)"/>
-    <rect x="65" y="56" width="144" height="144" rx="26" fill="#111c2a" stroke="#536a7f"/>
-    <path d="m113 103-27 25 27 25m48-50 27 25-27 25m-16-62-16 74" fill="none" stroke="#c3f467" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="252" cy="79" r="7" fill="#c3f467"/>
-    <circle cx="48" cy="210" r="4" fill="#7188a6"/>
-    <path d="M240 222h16m-8-8v16" stroke="#7188a6" stroke-width="2"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">Umidjon Tursunov — AI Software Engineer</title><desc id="desc">AI ideas. Real products. Python backend and product engineering. Tashkent, Uzbekistan.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#b8b4aa" opacity=".4"/></pattern></defs>
+<rect width="1280" height="480" rx="20" fill="#f4f1e9"/>
+<path d="M58 61h22m-11-11v22" stroke="#eb5a2b" stroke-width="4"/>
+<text x="95" y="68" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#20231e">UMIDJON TURSUNOV</text>
+<text x="1218" y="67" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2" fill="#6c6d62">TASHKENT / UZBEKISTAN</text>
+<path d="M58 96h1160" stroke="#d7d3c8"/>
+<text x="54" y="205" font-family="Arial,Helvetica,sans-serif" font-size="87" font-weight="800" letter-spacing="-4" fill="#20231e">AI ideas.</text>
+<text x="54" y="297" font-family="Arial,Helvetica,sans-serif" font-size="87" font-weight="800" letter-spacing="-4" fill="#20231e">Real products<tspan fill="#eb5a2b">.</tspan></text>
+<text x="60" y="351" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#5b6055">AI software engineer / Python backend / Mobile</text>
+<g transform="translate(855 117)">
+<rect width="365" height="252" fill="url(#dots)"/>
+<circle cx="182" cy="119" r="104" fill="none" stroke="#c8c5ba"/>
+<circle cx="182" cy="119" r="78" fill="none" stroke="#c8c5ba"/>
+<path d="M78 119h208M182 15v208" stroke="#c8c5ba"/>
+<circle cx="268" cy="62" r="10" fill="#eb5a2b"/>
+<rect x="28" y="34" width="247" height="62" rx="12" fill="#20231e" transform="rotate(-8 151 65)"/>
+<text x="57" y="75" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#f4f1e9" font-weight="700" transform="rotate(-8 151 65)">01 / UNDERSTAND</text>
+<rect x="59" y="104" width="247" height="62" rx="12" fill="#eb5a2b" transform="rotate(5 182 135)"/>
+<text x="88" y="145" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#fff" font-weight="700" transform="rotate(5 182 135)">02 / BUILD</text>
+<rect x="86" y="180" width="247" height="62" rx="12" fill="#20231e" transform="rotate(-5 209 211)"/>
+<text x="115" y="220" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#f4f1e9" font-weight="700" transform="rotate(-5 209 211)">03 / TEST &amp; REFINE</text>
+</g>
+<path d="M58 393h1160" stroke="#d7d3c8"/>
+<text x="60" y="437" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1" fill="#5b6055">RELIABLE APIS</text>
+<circle cx="233" cy="430" r="3" fill="#eb5a2b"/>
+<text x="254" y="437" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1" fill="#5b6055">AI WORKFLOWS</text>
+<circle cx="449" cy="430" r="3" fill="#eb5a2b"/>
+<text x="470" y="437" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1" fill="#5b6055">USEFUL MOBILE EXPERIENCES</text>
+<path d="M1169 418l13 13-13 13m-21-13h32" fill="none" stroke="#eb5a2b" stroke-width="3"/>
 </svg>

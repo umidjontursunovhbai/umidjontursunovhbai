@@ -43,6 +43,21 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 </tr>
 </table>
 
+### AI automation at UzVIP
+
+**AI Automation Engineer · Jun–Oct 2025**
+
+I built the n8n workflows manually, including the workflow logic, integrations, error handling, and testing.
+
+| Project | What I built |
+| :--- | :--- |
+| **eBay product-image automation** | A workflow to extract listing images, replace backgrounds with AI, and upload the results. Tracked processed listing IDs in Google Drive to avoid duplicate work. |
+| **Multi-model AI chat platform** | A chat platform where users could choose ChatGPT, Gemini, Grok, or DeepSeek. Built model routing in n8n, connected the frontend, and integrated Stripe subscriptions and one-time payments. |
+| **Custom GPT → Notion workflow** | Connected Custom GPT, n8n, and Notion to turn natural-language requests into structured workspace records. |
+| **Telegram calendar assistant** | Connected a Telegram voice assistant with Gemini and Google Calendar for scheduling workflows. |
+
+[Watch my n8n project demos ↗](https://www.youtube.com/@muydinov-n8n) · Videos in Uzbek.
+
 ### What I work with
 
 | Backend | Mobile | AI & integrations |
@@ -56,12 +71,3 @@ I use **Docker, Linux, and automated tests** to support delivery and maintenance
 - **[SmartSpend](https://github.com/umidjontursunovhbai/SmartSpend)** — a native iOS expense tracker with budgets, recurring expenses, and Home Screen widgets.
 - **[Project Ledger](https://github.com/umidjontursunovhbai/project-ledger)** — a project finance workspace for income, expenses, invoices, team access, and billing imports.
 - **[Telegram DM Assistant](https://github.com/umidjontursunovhbai/telegram-dm-assistant)** — an AI inbox assistant with local reply drafts and configurable auto-replies.
-
-<details>
-<summary><strong>Earlier experience</strong></summary>
-<br />
-
-**UzVIP · AI Automation Engineer · Jun–Oct 2025**<br />
-Built n8n workflows connecting AI services, webhooks, and business systems for chat, scheduling, and e-commerce. Worked on a multi-model chat flow with payment integration and natural-language workflows that created structured workspace records.
-
-</details>

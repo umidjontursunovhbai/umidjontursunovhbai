@@ -8,38 +8,32 @@
   <a href="https://github.com/umidjontursunovhbai?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
-### A little about me
+### Hi, I'm Umidjon
 
-I'm **Umidjon**, a developer based in **Tashkent, Uzbekistan**. I build mobile apps and practical automation tools, and learn machine learning by making small, hands-on projects.
+A developer based in **Tashkent, Uzbekistan**. I work on mobile apps, backend services, and AI automation — with a focus on solving everyday problems.
 
-I like software that makes everyday work simpler: keeping spending in view, organizing information, and turning repetitive tasks into useful tools.
+### What I can build
 
-### Selected work
+- **Mobile apps:** cross-platform apps with Flutter / Dart and native iOS apps with Swift / SwiftUI.
+- **Backends & integrations:** Python APIs, database-backed services, authentication, and third-party API integrations.
+- **AI & automation:** Telegram assistants, LLM-powered workflows, and tools for collecting and organizing data.
+- **Web applications:** practical interfaces with JavaScript, HTML, and CSS.
 
-| Project | What I'm building | Stack |
-| :--- | :--- | :--- |
-| **[SmartSpend](https://github.com/umidjontursunovhbai/SmartSpend)** | An iOS expense tracker with local storage, budgets, recurring expenses, and Home Screen widgets. | Swift · SwiftUI · WidgetKit |
-| **[Telegram DM Assistant](https://github.com/umidjontursunovhbai/telegram-dm-assistant)** | An AI inbox assistant with local reply drafts and configurable auto-replies. | Python · Telegram · LLM APIs |
-| **[YouTube Channel Scraper](https://github.com/umidjontursunovhbai/youtube-channel-video-scraper)** | A dependency-free CLI that exports public channel videos, Shorts, and streams to CSV, JSON, and Markdown. | JavaScript · Node.js |
-| **[TinyTrack AI](https://github.com/umidjontursunovhbai/tinytrack-ai)** | A 2D driving environment I'm building toward a reinforcement learning experiment. | Python · Pygame |
+**Core stack:** Flutter / Dart · Swift / SwiftUI · Python · JavaScript · PostgreSQL
 
-### Tools I work with
+### Projects I've worked on
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-087EFA?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+| Project | What it does |
+| :--- | :--- |
+| **[SmartSpend](https://github.com/umidjontursunovhbai/SmartSpend)** | Native iOS expense tracker with budgets, recurring expenses, local storage, and Home Screen widgets. |
+| **[Project Ledger](https://github.com/umidjontursunovhbai/project-ledger)** | A finance workspace for managing project budgets, income, expenses, invoices, team access, and billing imports. |
+| **[Telegram DM Assistant](https://github.com/umidjontursunovhbai/telegram-dm-assistant)** | An AI assistant for private Telegram messages, with reply drafts and configurable auto-replies. |
+| **[Telegram Channel Archiver](https://github.com/umidjontursunovhbai/telegram-channel-archiver)** | A resumable tool for archiving channel messages and media. |
+| **[YouTube Channel Scraper](https://github.com/umidjontursunovhbai/youtube-channel-video-scraper)** | A CLI that exports public videos, Shorts, and streams to CSV, JSON, and Markdown. |
 
-### What I'm exploring
+### Currently learning
 
-- Native iOS experiences with SwiftUI.
-- AI assistants that fit into everyday workflows.
-- Machine learning fundamentals, from regression to reinforcement learning.
+**Machine learning**, through [linear regression experiments](https://github.com/umidjontursunovhbai/ml-linear-regression-projects) and [TinyTrack AI](https://github.com/umidjontursunovhbai/tinytrack-ai), a 2D driving environment I'm building toward reinforcement learning.
 
 ---
 

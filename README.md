@@ -61,7 +61,7 @@ I use **Docker, Linux, and automated tests** to support delivery and maintenance
 <summary><strong>Earlier experience & ongoing learning</strong></summary>
 <br />
 
-**UzVIP · AI Automation Engineer · Jun–Oct 2025**  
+**UzVIP · AI Automation Engineer · Jun–Oct 2025**<br />
 Built n8n workflows connecting AI services, webhooks, and business systems for chat, scheduling, and e-commerce. Worked on a multi-model chat flow with payment integration and natural-language workflows that created structured workspace records.
 
 I'm also learning machine learning through [linear regression experiments](https://github.com/umidjontursunovhbai/ml-linear-regression-projects) and [TinyTrack AI](https://github.com/umidjontursunovhbai/tinytrack-ai), a 2D driving environment I'm building toward reinforcement learning.

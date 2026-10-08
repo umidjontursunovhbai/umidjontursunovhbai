@@ -65,7 +65,3 @@ I use **Docker, Linux, and automated tests** to support delivery and maintenance
 Built n8n workflows connecting AI services, webhooks, and business systems for chat, scheduling, and e-commerce. Worked on a multi-model chat flow with payment integration and natural-language workflows that created structured workspace records.
 
 </details>
-
----
-
-<p align="center"><strong>Have a useful problem to solve?</strong> <a href="mailto:tursunov.umidjon.uz@gmail.com">Let's build something that works.</a></p>

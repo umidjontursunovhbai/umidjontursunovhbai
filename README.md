@@ -14,11 +14,11 @@
 
 <br />
 
-I build **AI-assisted products, Python backends, and mobile workflows**. My work connects what users experience with what happens behind the scenes: APIs, payments, chat, and operations.
+I build **AI-assisted products, Python backends, and mobile apps from the ground up**. I independently built **UTAX AI and bRide Mobile end-to-end**. My work connects what users experience with what happens behind the scenes: APIs, payments, chat, and operations.
 
 I focus on making the difficult parts reliable — subscription upgrades, credit accounting, changing auth state, and conversations that stay consistent when the network doesn't.
 
-### Product contributions
+### Products I built & contributed to
 
 <table>
 <tr>
@@ -27,8 +27,8 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 <p>Fixed <strong>Standard-to-Pro upgrades and credit accounting</strong> across backend and web. Added regression tests for payments, billing periods, and concurrent credit use.</p>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./assets/utax-mobile.svg" /><img src="./assets/utax.svg" width="100%" alt="UTAX AI — mobile chat and attachment workflows" /></picture>
-<p>Improved <strong>Flutter chat search and navigation</strong>, attachment readiness, persistent local auth, and user-facing error and cancellation flows.</p>
+<picture><source media="(max-width: 600px)" srcset="./assets/utax-mobile.svg" /><img src="./assets/utax.svg" width="100%" alt="UTAX AI — independently built end-to-end" /></picture>
+<p><strong>Independently built the UTAX AI mobile app from scratch, end-to-end.</strong> Developed the Flutter app, including AI chat, search and navigation, attachments, persistent local auth, and API integration.</p>
 </td>
 </tr>
 <tr>
@@ -37,8 +37,8 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 <p>Isolated search failures, kept <strong>outgoing messages visible during server lag</strong>, prevented deleted chats from returning, and refined message copying.</p>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./assets/bride-mobile.svg" /><img src="./assets/bride.svg" width="100%" alt="bRide Mobile — attendance and team operations" /></picture>
-<p>Improved <strong>multi-office check-in and schedule reliability</strong>. Connected Linear and Gmail activity to the mobile inbox and fixed email rendering across API and Flutter clients.</p>
+<picture><source media="(max-width: 600px)" srcset="./assets/bride-mobile.svg" /><img src="./assets/bride.svg" width="100%" alt="bRide Mobile — independently built end-to-end" /></picture>
+<p><strong>Independently built bRide Mobile from scratch, end-to-end.</strong> Developed the Flutter app for team attendance and operations, including multi-office check-in, schedules, and a unified inbox with Linear and Gmail integrations.</p>
 </td>
 </tr>
 </table>

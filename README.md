@@ -14,7 +14,7 @@
 
 <br />
 
-I build **AI-assisted products, Python backends, and mobile apps from the ground up**. I independently built **UTAX AI and bRide Mobile end-to-end**. My work connects what users experience with what happens behind the scenes: APIs, payments, chat, and operations.
+I build **AI-assisted products, Python backends, and mobile apps from the ground up**. I independently built the **UTAX AI mobile app** and **bRide Mobile** from scratch. My work connects what users experience with what happens behind the scenes: APIs, payments, chat, and operations.
 
 I focus on making the difficult parts reliable — subscription upgrades, credit accounting, changing auth state, and conversations that stay consistent when the network doesn't.
 
@@ -27,8 +27,8 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 <p>Fixed <strong>Standard-to-Pro upgrades and credit accounting</strong> across backend and web. Added regression tests for payments, billing periods, and concurrent credit use.</p>
 </td>
 <td width="50%" valign="top">
-<picture><source media="(max-width: 600px)" srcset="./assets/utax-mobile.svg" /><img src="./assets/utax.svg" width="100%" alt="UTAX AI — independently built end-to-end" /></picture>
-<p><strong>Independently built the UTAX AI mobile app from scratch, end-to-end.</strong> Developed the Flutter app, including AI chat, search and navigation, attachments, persistent local auth, and API integration.</p>
+<picture><source media="(max-width: 600px)" srcset="./assets/utax-mobile.svg" /><img src="./assets/utax.svg" width="100%" alt="UTAX AI — Flutter mobile app built from scratch" /></picture>
+<p><strong>Independently built the UTAX AI Flutter mobile app from scratch.</strong> Developed AI chat, search and navigation, attachments, and persistent local auth. Integrated the mobile app with existing backend APIs.</p>
 </td>
 </tr>
 <tr>

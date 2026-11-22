@@ -45,13 +45,42 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 
 ### Live in the stores
 
-| App | App Store | Google Play |
-| :--- | :--- | :--- |
-| **Wakil AI** | [App Store](https://apps.apple.com/app/id6762688663) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.wakil) |
-| **UTAX AI** | [App Store](https://apps.apple.com/app/id6818034384) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.utax) |
-| **Kusherbayev AI** | [App Store](https://apps.apple.com/app/id6804631971) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.kusherbayevai) |
-| **bRide Mobile** | [App Store](https://apps.apple.com/app/id6807656646) | [Google Play](https://play.google.com/store/apps/details?id=sh.bride.mobile) |
-| **Agro Bizness** | [App Store](https://apps.apple.com/app/id6832897230) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.agro) |
+All apps are published on the App Store and Google Play.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>Wakil AI</h4>
+<p>AI legal help in Uzbek.</p>
+<p><a href="https://apps.apple.com/app/id6762688663"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.wakil"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>UTAX AI</h4>
+<p>AI tax assistant, built with Flutter.</p>
+<p><a href="https://apps.apple.com/app/id6818034384"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.utax"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Kusherbayev AI</h4>
+<p>AI chat app with reliable conversations.</p>
+<p><a href="https://apps.apple.com/app/id6804631971"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.kusherbayevai"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>bRide Mobile</h4>
+<p>Team attendance and operations.</p>
+<p><a href="https://apps.apple.com/app/id6807656646"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=sh.bride.mobile"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Agro Bizness</h4>
+<p>AI assistant for agribusiness.</p>
+<p><a href="https://apps.apple.com/app/id6832897230"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.agro"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### AI automation at UzVIP
 
@@ -70,14 +99,18 @@ I built the n8n workflows manually, including the workflow logic, integrations, 
 
 ### What I work with
 
-| Backend | Mobile | AI & integrations |
-| :--- | :--- | :--- |
-| Python · FastAPI · PostgreSQL | Flutter / Dart · SwiftUI | AI agents · MCP · API & webhook integrations |
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-I use **Docker, Linux, and automated tests** to support delivery and maintenance.
+Also: AI agents, MCP, API and webhook integrations, and automated tests for delivery and maintenance.
 
 ### A few things you can explore
 
-- **[SmartSpend](https://github.com/umidjontursunovhbai/SmartSpend)** — a native iOS expense tracker with budgets, recurring expenses, and Home Screen widgets.
-- **[Project Ledger](https://github.com/umidjontursunovhbai/project-ledger)** — a project finance workspace for income, expenses, invoices, team access, and billing imports.
-- **[Telegram DM Assistant](https://github.com/umidjontursunovhbai/telegram-dm-assistant)** — an AI inbox assistant with local reply drafts and configurable auto-replies.
+<table>
+<tr>
+<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/SmartSpend">SmartSpend</a></h4><p>Native iOS expense tracker with budgets, recurring expenses, and Home Screen widgets.</p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/project-ledger">Project Ledger</a></h4><p>Project finance workspace for income, expenses, invoices, team access, and billing imports.</p></td>
+<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/telegram-dm-assistant">Telegram DM Assistant</a></h4><p>AI inbox assistant with local reply drafts and configurable auto-replies.</p></td>
+</tr>
+</table>

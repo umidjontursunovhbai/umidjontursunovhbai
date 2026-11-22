@@ -47,40 +47,20 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 
 All apps are published on the App Store and Google Play.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>Wakil AI</h4>
-<p>AI legal help in Uzbek.</p>
-<p><a href="https://apps.apple.com/app/id6762688663"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.wakil"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
-</td>
-<td width="50%" valign="top">
-<h4>UTAX AI</h4>
-<p>AI tax assistant, built with Flutter.</p>
-<p><a href="https://apps.apple.com/app/id6818034384"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.utax"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>Kusherbayev AI</h4>
-<p>AI chat app with reliable conversations.</p>
-<p><a href="https://apps.apple.com/app/id6804631971"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.kusherbayevai"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
-</td>
-<td width="50%" valign="top">
-<h4>bRide Mobile</h4>
-<p>Team attendance and operations.</p>
-<p><a href="https://apps.apple.com/app/id6807656646"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=sh.bride.mobile"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>Agro Bizness</h4>
-<p>AI assistant for agribusiness.</p>
-<p><a href="https://apps.apple.com/app/id6832897230"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App_Store Download" /></a><br /><a href="https://play.google.com/store/apps/details?id=ai.humblebee.agro"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google_Play Get_it" /></a></p>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+**Wakil AI** — AI legal help in Uzbek.<br />
+<a href="https://apps.apple.com/app/id6762688663"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App_Store" /></a> <a href="https://play.google.com/store/apps/details?id=ai.humblebee.wakil"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play" /></a>
+
+**UTAX AI** — AI tax assistant, built with Flutter.<br />
+<a href="https://apps.apple.com/app/id6818034384"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App_Store" /></a> <a href="https://play.google.com/store/apps/details?id=ai.humblebee.utax"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play" /></a>
+
+**Kusherbayev AI** — AI chat app with reliable conversations.<br />
+<a href="https://apps.apple.com/app/id6804631971"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App_Store" /></a> <a href="https://play.google.com/store/apps/details?id=ai.humblebee.kusherbayevai"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play" /></a>
+
+**bRide Mobile** — Team attendance and operations.<br />
+<a href="https://apps.apple.com/app/id6807656646"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App_Store" /></a> <a href="https://play.google.com/store/apps/details?id=sh.bride.mobile"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play" /></a>
+
+**Agro Bizness** — AI assistant for agribusiness.<br />
+<a href="https://apps.apple.com/app/id6832897230"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="App_Store" /></a> <a href="https://play.google.com/store/apps/details?id=ai.humblebee.agro"><img src="https://img.shields.io/badge/Google_Play-Get_it-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play" /></a>
 
 ### AI automation at UzVIP
 
@@ -88,12 +68,17 @@ All apps are published on the App Store and Google Play.
 
 I built the n8n workflows manually, including the workflow logic, integrations, error handling, and testing.
 
-| Project | What I built |
-| :--- | :--- |
-| **eBay product-image automation** | A workflow to extract listing images, replace backgrounds with AI, and upload the results. Tracked processed listing IDs in Google Drive to avoid duplicate work. |
-| **Multi-model AI chat platform** | A chat platform where users could choose ChatGPT, Gemini, Grok, or DeepSeek. Built model routing in n8n, connected the frontend, and integrated Stripe subscriptions and one-time payments. |
-| **Custom GPT → Notion workflow** | Connected Custom GPT, n8n, and Notion to turn natural-language requests into structured workspace records. |
-| **Telegram calendar assistant** | Connected a Telegram voice assistant with Gemini and Google Calendar for scheduling workflows. |
+**eBay product-image automation**<br />
+A workflow to extract listing images, replace backgrounds with AI, and upload the results. Tracked processed listing IDs in Google Drive to avoid duplicate work.
+
+**Multi-model AI chat platform**<br />
+A chat platform where users could choose ChatGPT, Gemini, Grok, or DeepSeek. Built model routing in n8n, connected the frontend, and integrated Stripe subscriptions and one-time payments.
+
+**Custom GPT → Notion workflow**<br />
+Connected Custom GPT, n8n, and Notion to turn natural-language requests into structured workspace records.
+
+**Telegram calendar assistant**<br />
+Connected a Telegram voice assistant with Gemini and Google Calendar for scheduling workflows.
 
 [Watch my n8n project demos ↗](https://www.youtube.com/@muydinov-n8n) · Videos in Uzbek.
 
@@ -107,10 +92,11 @@ Also: AI agents, MCP, API and webhook integrations, and automated tests for deli
 
 ### A few things you can explore
 
-<table>
-<tr>
-<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/SmartSpend">SmartSpend</a></h4><p>Native iOS expense tracker with budgets, recurring expenses, and Home Screen widgets.</p></td>
-<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/project-ledger">Project Ledger</a></h4><p>Project finance workspace for income, expenses, invoices, team access, and billing imports.</p></td>
-<td width="33%" valign="top"><h4><a href="https://github.com/umidjontursunovhbai/telegram-dm-assistant">Telegram DM Assistant</a></h4><p>AI inbox assistant with local reply drafts and configurable auto-replies.</p></td>
-</tr>
-</table>
+**[SmartSpend](https://github.com/umidjontursunovhbai/SmartSpend)**<br />
+Native iOS expense tracker with budgets, recurring expenses, and Home Screen widgets.
+
+**[Project Ledger](https://github.com/umidjontursunovhbai/project-ledger)**<br />
+Project finance workspace for income, expenses, invoices, team access, and billing imports.
+
+**[Telegram DM Assistant](https://github.com/umidjontursunovhbai/telegram-dm-assistant)**<br />
+AI inbox assistant with local reply drafts and configurable auto-replies.

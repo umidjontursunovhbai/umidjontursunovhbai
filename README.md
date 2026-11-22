@@ -43,6 +43,16 @@ I focus on making the difficult parts reliable — subscription upgrades, credit
 </tr>
 </table>
 
+### Live in the stores
+
+| App | App Store | Google Play |
+| :--- | :--- | :--- |
+| **Wakil AI** | [App Store](https://apps.apple.com/app/id6762688663) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.wakil) |
+| **UTAX AI** | [App Store](https://apps.apple.com/app/id6818034384) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.utax) |
+| **Kusherbayev AI** | [App Store](https://apps.apple.com/app/id6804631971) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.kusherbayevai) |
+| **bRide Mobile** | [App Store](https://apps.apple.com/app/id6807656646) | [Google Play](https://play.google.com/store/apps/details?id=sh.bride.mobile) |
+| **Agro Bizness** | [App Store](https://apps.apple.com/app/id6832897230) | [Google Play](https://play.google.com/store/apps/details?id=ai.humblebee.agro) |
+
 ### AI automation at UzVIP
 
 **AI Automation Engineer · Jun–Oct 2025**
